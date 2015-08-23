@@ -2,7 +2,7 @@ class BoardgameCacher
   def hot_boardgames
     hot_list = BggApi.hot(type: 'boardgame')['item']
     hot_list.each do |game|
-      Boardgame.create(boardgame_params(game))
+      Boardgame.find_by(bgg_id: boardgame_params(game)['bgg_id']) || Boardgame.create(boardgame_params(game))
     end
   end
 
