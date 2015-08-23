@@ -22,4 +22,5 @@ end
 group :test do
   gem 'factory_girl'
   gem 'rspec-rails'
+  gem 'shoulda-matchers'
 end

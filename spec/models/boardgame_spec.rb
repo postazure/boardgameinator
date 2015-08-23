@@ -1,6 +1,10 @@
 require 'rails_helper'
 
 describe Boardgame do
+  describe 'validations' do
+    it { should validate_uniqueness_of(:bgg_id) }
+  end
+
   describe 'scopes' do
     describe '#name_includes' do
       let!(:catan) { FactoryGirl.create(:boardgame, name: 'Settlers of Catan')}
