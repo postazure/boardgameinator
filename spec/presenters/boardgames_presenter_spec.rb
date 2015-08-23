@@ -12,21 +12,21 @@ describe BoardgamesPresenter do
         {
           id: game1.id,
           name: game1.name,
-          kind: game1.kind,
+          thumbnail: game1.thumbnail,
           bgg_id: game1.bgg_id,
           year_published: game1.year_published
         },
         {
           id: game2.id,
           name: game2.name,
-          kind: game2.kind,
+          thumbnail: game2.thumbnail,
           bgg_id: game2.bgg_id,
           year_published: game2.year_published
         },
         {
           id: game3.id,
           name: game3.name,
-          kind: game3.kind,
+          thumbnail: game3.thumbnail,
           bgg_id: game3.bgg_id,
           year_published: game3.year_published
         }

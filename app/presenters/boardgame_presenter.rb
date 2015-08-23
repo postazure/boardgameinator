@@ -3,7 +3,7 @@ class BoardgamePresenter < Presenter
     {
       id: object.id,
       name: object.name,
-      kind: object.kind,
+      thumbnail: object.thumbnail,
       bgg_id: object.bgg_id,
       year_published: object.year_published
     }

@@ -9,7 +9,7 @@ describe BoardgamePresenter do
       {
         id: game.id,
         name: game.name,
-        kind: game.kind,
+        thumbnail: game.thumbnail,
         bgg_id: game.bgg_id,
         year_published: game.year_published
       }
