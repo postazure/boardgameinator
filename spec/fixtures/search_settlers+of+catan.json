@@ -1,0 +1,106 @@
+{
+  total: "28",
+  termsofuse: "http://boardgamegeek.com/xmlapi/termsofuse",
+  item: [
+    {
+      type: "boardgame",
+      id: "17419",
+      name: [
+        {
+          type: "alternate",
+          value: "10th Anniversary Treasure Chest Set: Settlers of Catan"
+        }
+      ],
+      yearpublished: [
+        {
+          value: "2005"
+        }
+      ]
+    },
+    {
+      type: "boardgame",
+      id: "128751",
+      name: [
+        {
+          type: "primary",
+          value: "Heroes & Capitols (fan expansion for Settlers of Catan)"
+        }
+      ],
+      yearpublished: [
+        {
+          value: "2012"
+        }
+      ]
+    },
+    {
+      type: "boardgame",
+      id: "90100",
+      name: [
+        {
+          type: "primary",
+          value: "Die Pioniere (fan expansion for The Settlers of Catan)"
+        }
+      ]
+    },
+    {
+      type: "boardgame",
+      id: "13",
+      name: [
+        {
+          type: "alternate",
+          value: "The Settlers fra Catan"
+        }
+      ],
+      yearpublished: [
+        {
+          value: "1995"
+        }
+      ]
+    },
+    {
+      type: "boardgame",
+      id: "926",
+      name: [
+        {
+          type: "alternate",
+          value: "Settlers fra Catan: Byer & Riddere"
+        }
+      ],
+      yearpublished: [
+        {
+          value: "1998"
+        }
+      ]
+    },
+    {
+      type: "boardgame",
+      id: "4101",
+      name: [
+        {
+          type: "alternate",
+          value: "The Settlers fra Catan: Byer & Riddere. Tillægssæt til 5-6 spillere"
+        }
+      ],
+      yearpublished: [
+        {
+          "value": "2000"
+        }
+      ]
+    },
+    {
+      type: "boardgame",
+      id: "103091",
+      name: [
+        {
+          type: "alternate",
+          value: "Settlers fra Catan: Europa"
+        }
+      ],
+      yearpublished: [
+        {
+          value: "2011"
+        }
+      ]
+    }
+  ]
+}
